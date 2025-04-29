@@ -1,0 +1,14 @@
+*.iml
+/.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*.hprof
+app/release/
+app/debug/
+app/automation/
+app/build/
+/app/calix_key.jks
